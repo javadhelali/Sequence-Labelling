@@ -3,4 +3,4 @@ Implementing  , learning and re implementing "End-to-end Sequence Labeling via B
 
 
 No longer maintaining this. Please look at the tensorflow version here
-https://github.com/LopezGG/NN_NER_TF
+https://github.com/LopezGG/NN_NER_tensorFlow
